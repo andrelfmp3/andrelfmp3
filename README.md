@@ -1,4 +1,4 @@
-## Hey, i'm André 🕵🏻
+## Hey, i'm André Lyra 🕵🏻
 
 👨‍💻 Computer Science Student at the Federal Institute of São Paulo.
 
@@ -23,7 +23,8 @@
 ## Technologies that Interest Me:
   <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img align="center" alt="html5" src=https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white) />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
