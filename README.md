@@ -1,10 +1,12 @@
 ## Hey, i'm André 🕵🏻
 
-👨‍💻 Computer Science Student at the Federal Institute of São Paulo 
+👨‍💻 Computer Science Student at the Federal Institute of São Paulo.
 
-🔐 Enthusiast of Ethical Hacking, Pentest, Reverse Engineering, and comics  
+🔐 Enthusiast of Ethical Hacking, Pentest and Reverse Engineering.
 
 💻 Obsessed with exact sciences and subverting how things work.
+
+🎧 Passionate about Music and Comics.
 
 ⛩️ Content creator at [@hackingstudies](https://www.instagram.com/hackingstudies/) on Instagram.
 
@@ -18,8 +20,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelfmp3&layout=compact)
 
 
-## technologies that interest me
-<div style="display: inline_block"><br/>
+## Technologies that Interest Me:
+  <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
   <img align="center" alt="html5" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
