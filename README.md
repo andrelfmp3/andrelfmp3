@@ -4,9 +4,9 @@
 
 🔐 Enthusiast of Ethical Hacking, Pentest and Reverse Engineering.
 
-💻 Obsessed with exact sciences and subverting how things work.
+💻 bsessed with understanding and subverting how things work.
 
-🎧 Passionate about Music and Comics.
+🎧 Passionate about exact sciences, physical activity, music and comics.
 
 ⛩️ Content creator at [@hackingstudies](https://www.instagram.com/hackingstudies/) on Instagram.
 
