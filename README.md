@@ -4,7 +4,7 @@
 
 🔐 Enthusiast of Ethical Hacking, Pentest and Reverse Engineering.
 
-💻 bsessed with understanding and subverting how things work.
+💻 Obsessed with understanding and subverting how things work.
 
 🎧 Passionate about exact sciences, physical activity, music and comics.
 
