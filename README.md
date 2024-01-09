@@ -1,4 +1,5 @@
-## Hey, i'm André Lyra 🕵🏻
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey,+i'm+André+Lyra+🕵🏻)](https://git.io/typing-svg)
+---------------------------------------------------------------------------------------------------------------------------------------
 
 👨‍💻 Computer Science Student at the Federal Institute of São Paulo.
 
