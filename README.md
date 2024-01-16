@@ -3,7 +3,7 @@
 
 👨‍💻 Computer Science Student at the Federal Institute of São Paulo.
 
-🔐 Enthusiast of Ethical Hacking, Pentest and Reverse Engineering.
+🔐 Enthusiast of Ethical Hacking, Reverse Engineering and Python development.
 
 💻 Obsessed with understanding and subverting how things work.
 
