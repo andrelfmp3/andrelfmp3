@@ -17,8 +17,9 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21kcyqxnjeqmchdbgvncxvosi/playlists)
 
 ![Dre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelfmp3&show_icons=true&theme=dracula)   
+---------------------------------------------------------------------------------------------------------------------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelfmp3&layout=compact)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrelfmp3&theme=dracula)](https://github.com/andrelfmp3/github-readme-stats)
 
 
 ## Technologies that Interest Me:
