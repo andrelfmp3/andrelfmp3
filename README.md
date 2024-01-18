@@ -25,14 +25,14 @@
 
 
 ## Technologies that Interest Me:
-  <div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img align="center" alt="html5" src=https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white) />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div>
+
 
 <p align="left">
-<img src="https://img.shields.io/badge/sass-4D4577?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/tailwindcss-F73C7B?logo=tailwindcss&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/kali linux-4D4577?logo=kalilinux&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/TryHackMe-4D4577?logo=tryhackme&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/python-F73C7B?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/django-F73C7B?logo=django&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/assembly-F73C7B?logo=asm&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/c-F73C7B?logo=c&style=for-the-badge&logoColor=F2F2F2"/>
+
+
