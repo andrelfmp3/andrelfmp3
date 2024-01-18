@@ -20,7 +20,7 @@
 <a href="https://open.spotify.com/user/21kcyqxnjeqmchdbgvncxvosi/playlists"><img src="https://img.shields.io/badge/spotify-22293d?style=for-the-badge&logoColor=F2F2F2&logo=spotify"/></a>
 
 
-![Dre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelfmp3&show_icons=true&theme=tokyonight) ㅤㅤㅤㅤ- ‎![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrelfmp3&theme=tokyonight&layout=compact)](https://github.com/andrelfmp3/github-readme-stats)
+![Dre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelfmp3&show_icons=true&theme=tokyonight) ㅤㅤㅤㅤ. ‎![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrelfmp3&theme=tokyonight&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
