@@ -12,9 +12,11 @@
 ⛩️ Content creator at [@hackingstudies](https://www.instagram.com/hackingstudies/) on Instagram.
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrelfmp3/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackingstudies/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21kcyqxnjeqmchdbgvncxvosi/playlists)
+<p align="left">
+<a href="https://www.linkedin.com/in/andrelfmp3/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<a href="https://www.instagram.com/hackingstudies/"><img src="https://img.shields.io/badge/instagram-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=instagram"/></a>
+<a href="https://open.spotify.com/user/21kcyqxnjeqmchdbgvncxvosi/playlists"><img src="https://img.shields.io/badge/spotify-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=spotify"/></a>
+
 
 ![Dre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelfmp3&show_icons=true&theme=dracula)   
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -30,3 +32,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
+
+<p align="left">
+<img src="https://img.shields.io/badge/sass-4D4577?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/tailwindcss-F73C7B?logo=tailwindcss&style=for-the-badge&logoColor=F2F2F2"/>
