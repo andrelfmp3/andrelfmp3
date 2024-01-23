@@ -3,7 +3,7 @@
 
 👨🏻‍💻 Computer Science Student at the Federal Institute of São Paulo.
 
-🖱️ Enthusiast of Ethical Hacking and Python development.
+🖱️ Enthusiast Python development, Digital Forensics and Incident Response, and Ethical Hacking in general.
 
 💻 Obsessed with understanding and subverting how things work.
 
