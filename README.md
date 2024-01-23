@@ -3,11 +3,11 @@
 
 👨🏻‍💻 Computer Science Student at the Federal Institute of São Paulo.
 
-🖱️ Enthusiast Python development, Digital Forensics and Incident Response, and Ethical Hacking in general.
+🖱️ Enthusiast Python development and Digital Forensics and Incident Response.
 
 💻 Obsessed with understanding and subverting how things work.
 
-🎧 Passionate about exact sciences, physical activity, music and comics.
+🎧 Passionate about exact sciences, physical activity, music and DC comics.
 
 ⛩️ Content creator at [@hackingstudies](https://www.instagram.com/hackingstudies/) on Instagram.
 
