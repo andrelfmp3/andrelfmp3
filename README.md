@@ -3,13 +3,13 @@
 
 👨🏻‍💻 Computer Science Student at the Federal Institute of São Paulo.
 
-🖱️ Enthusiast Digital Forensics and Incident Response (DFIR) and Python development.
+🔐 Enthusiast Digital Forensics and Incident Response (DFIR) and Python development.
 
 💻 Obsessed with understanding and subverting how things work.
 
 🎧 Passionate about exact sciences, physical activity, music and DC comics.
 
-⛩️ Content creator at [@hackingstudies](https://www.instagram.com/hackingstudies/) on Instagram.
+🖱️ Content creator at [@hackingstudies](https://www.instagram.com/hackingstudies/) on Instagram.
 
 ---
 
