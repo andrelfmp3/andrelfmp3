@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey,+i'm+André+Lyra+🕵🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey,+i'm+André+Lyra+🦇)](https://git.io/typing-svg)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 👨🏻‍💻 Computer Science Student at the Federal Institute of São Paulo.
 
 🔐 Enthusiast Digital Forensics and Incident Response (DFIR) and Python development.
 
-💻 Obsessed with understanding and subverting how things work.
+🕵🏻 Obsessed with understanding and subverting how things work.
 
 🎧 Passionate about exact sciences, physical activity, music and DC comics.
 
-🖱️ Content creator at [@hackingstudies](https://www.instagram.com/hackingstudies/) on Instagram.
+💻 Content creator at [@hackingstudies](https://www.instagram.com/hackingstudies/) on Instagram.
 
 ---
 
