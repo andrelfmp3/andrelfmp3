@@ -3,7 +3,7 @@
 
 👨🏻‍💻 Computer Science Student at the Federal Institute of São Paulo.
 
-🔐 Enthusiast Digital Forensics and Incident Response (DFIR), and Python development.
+🔵 Enthusiast Digital Forensics and Incident Response (DFIR), and Python development.
 
 🕵🏻 Obsessed with understanding and subverting how things work.
 
