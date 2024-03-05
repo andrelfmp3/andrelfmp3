@@ -7,14 +7,12 @@
 
 🎧 Passionate about exact sciences, physical activity, music and DC comics
 
-💻 Content creator at [@hackingstudies](https://www.instagram.com/hackingstudies/) on Instagram
-
 ---
 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/andrelfmp3/"><img src="https://img.shields.io/badge/linkedin-22293d?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
-<a href="https://www.instagram.com/hackingstudies/"><img src="https://img.shields.io/badge/instagram-394d74?style=for-the-badge&logoColor=F2F2F2&logo=instagram"/></a>
+<a href="https://www.instagram.com/andrelfmp3/"><img src="https://img.shields.io/badge/instagram-394d74?style=for-the-badge&logoColor=F2F2F2&logo=instagram"/></a>
 
 
 
