@@ -5,7 +5,7 @@
 
 🕵🏻 Enthusiast Digital Forensics and Incident Response (DFIR), and Python development
 
-🎧 Passionate about exact sciences, physical activity, music and DC comics
+🎧 Passionate about nirvana, calisthenics and nietzsche
 
 ---
 
