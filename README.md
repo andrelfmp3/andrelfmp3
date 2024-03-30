@@ -5,7 +5,7 @@
 
 🕵🏻 Enthusiast Digital Forensics and Incident Response (DFIR), and Python development
 
-🎧 Passionate about music, samurais, tattoos, calisthenics, batman, and Nietzsche
+🎧 Passionate about music, tattoos, calisthenics, batman, and Nietzsche
 
 ---
 
