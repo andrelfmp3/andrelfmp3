@@ -26,7 +26,7 @@
 
 
 <p align="left">
-<img src="https://img.shields.io/badge/arch linux-22293d?logo=archlinux&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/manjaro-22293d?logo=manjaro&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/TryHackMe-394d74?logo=tryhackme&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/python-22293d?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/django-394d74?logo=django&style=for-the-badge&logoColor=F2F2F2"/>
