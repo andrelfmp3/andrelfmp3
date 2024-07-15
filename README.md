@@ -5,7 +5,7 @@
 
 🕵🏻 Enthusiast Digital Forensics and Incident Response (DFIR), and Python development
 
-🎧 Passionate about tattoos, calisthenics, and Nietzsche
+🎧 Passionate about motorcycles, calisthenics, and Nietzsche
 
 ---
 
@@ -16,7 +16,7 @@
 
 
 
-![Dre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelfmp3&show_icons=true&theme=tokyonight) ㅤㅤㅤㅤ. ‎![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrelfmp3&theme=tokyonight&layout=compact)
+![Dre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelfmp3&show_icons=true&theme=dracula) ㅤㅤㅤㅤ. ‎![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrelfmp3&theme=dracula&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
