@@ -32,5 +32,6 @@
 <img src="https://img.shields.io/badge/python-22293d?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/TryHackMe-394d74?logo=tryhackme&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/exercism-22293d?logo=exercism&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/go-394d74?logo=go&style=for-the-badge&logoColor=F2F2F2"/>
 
 
