@@ -25,9 +25,7 @@
 
 ## Technologies that Interest Me:
 
-
-
-
+<p align="left">
 <img src="https://img.shields.io/badge/python-394d74?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/c-22293d?logo=c&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/go-394d74?logo=go&style=for-the-badge&logoColor=F2F2F2"/>
