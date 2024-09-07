@@ -26,12 +26,15 @@
 ## Technologies that Interest Me:
 
 
-<p align="left">
-<img src="https://img.shields.io/badge/arch-22293d?logo=archlinux&style=for-the-badge&logoColor=F2F2F2"/>
+
+
+<img src="https://img.shields.io/badge/python-394d74?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/c-22293d?logo=c&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/go-394d74?logo=go&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/django-22293d?logo=django&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/LetsDefend-394d74?logo=letsdefend&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/python-22293d?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/archlinux-22293d?logo=archlinux&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/TryHackMe-394d74?logo=tryhackme&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/exercism-22293d?logo=exercism&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/go-394d74?logo=go&style=for-the-badge&logoColor=F2F2F2"/>
-
+<img src="https://img.shields.io/badge/latex-394d74?logo=latex&style=for-the-badge&logoColor=F2F2F2"/>
 
