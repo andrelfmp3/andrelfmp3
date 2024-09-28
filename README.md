@@ -8,17 +8,12 @@
 🎧 Passionate about calisthenics, Batman, and Nietzsche
 
 #
-
 <p align="left">
 <a href="https://www.linkedin.com/in/andrelfmp3/"><img src="https://img.shields.io/badge/linkedin-22293d?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="https://www.instagram.com/andrelfmp3/"><img src="https://img.shields.io/badge/instagram-394d74?style=for-the-badge&logoColor=F2F2F2&logo=instagram"/></a>
 
-
-
-![Dre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelfmp3&show_icons=true&theme=tokyonight) 
-
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrelfmp3&theme=tokyonight&layout=compact)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=andrelfmp3&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelfmp3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -33,6 +28,4 @@
 <img src="https://img.shields.io/badge/LetsDefend-394d74?logo=letsdefend&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/archlinux-22293d?logo=archlinux&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/TryHackMe-394d74?logo=tryhackme&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/exercism-22293d?logo=exercism&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/latex-394d74?logo=latex&style=for-the-badge&logoColor=F2F2F2"/>
 
