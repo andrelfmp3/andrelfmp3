@@ -7,7 +7,7 @@
 
 🔏 Security Operations Center, Digital Forensics, Incident Response and OSINT.
 
-🎧 Passionate About Investigation, Martial Arts, and Batman.
+🦇 Passionate About Investigation, Martial Arts, and Batman.
 
 #
 <p align="left">
@@ -31,5 +31,4 @@
 <img src="https://img.shields.io/badge/archlinux-B07219?logo=archlinux&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/TryHackMe-%23000000?logo=tryhackme&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/splunk-B07219.svg?style=for-the-badge&logo=splunk&logoColor=F2F2F2" />
-<img src="https://img.shields.io/badge/cisco-%23000000.svg?style=for-the-badge&logo=cisco&logoColor=F2F2F2" />
 
