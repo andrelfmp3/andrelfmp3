@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/andrelfmp3/"><img src="https://img.shields.io/badge/linkedin-22293d?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="https://www.instagram.com/andrelfmp3/"><img src="https://img.shields.io/badge/instagram-394d74?style=for-the-badge&logoColor=F2F2F2&logo=instagram"/></a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=andrelfmp3&theme=tokyonight&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelfmp3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelfmp3&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -----------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -25,9 +25,11 @@
 <p align="left">
 <img src="https://img.shields.io/badge/python-394d74?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/c-22293d?logo=c&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/assembly-394d74?logo=mips&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/django-22293d?logo=django&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask-22293d?logo=flask&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/LetsDefend-394d74?logo=letsdefend&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/archlinux-22293d?logo=archlinux&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/TryHackMe-394d74?logo=tryhackme&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/splunk-%23049fd9.svg?style=for-the-badge&logo=splunk&logoColor=F2F2F2" />
+<img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=F2F2F2" />
 
