@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/andrelfmp3/"><img src="https://img.shields.io/badge/linkedin-22293d?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="https://www.instagram.com/andrelfmp3/"><img src="https://img.shields.io/badge/instagram-394d74?style=for-the-badge&logoColor=F2F2F2&logo=instagram"/></a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelfmp3&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelfmp3&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -----------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------
 
